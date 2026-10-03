@@ -182,4 +182,4 @@ launch. Contact: Eric Yaka, Abuja, Nigeria.
 
 ---
 
-*Forged in the Grimoire of Elbàlor — The Digital Necromancer 💀🔥*
+*From the Grimoire of Elbàlor — The Digital Necromancer 💀🔥*
