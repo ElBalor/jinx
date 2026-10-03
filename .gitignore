@@ -1,0 +1,14 @@
+# --- multi-GB checkpoints stay local ---
+*.pt
+*.pth
+
+# --- python ---
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# --- os / editor ---
+.DS_Store
+Thumbs.db
