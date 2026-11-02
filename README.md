@@ -1,4 +1,4 @@
-# JinX — A Neural Agent with an Ego, a Metabolism, and a Photographic Memory
+# JinX: A Neural Agent with an Ego, a Metabolism, and a Photographic Memory
 
 > Most "agents" are a language model with tool calls bolted on. JinX is not that.
 > JinX is a transformer architecture with **drives**, a **sleep cycle**, a
