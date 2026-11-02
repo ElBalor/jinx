@@ -27,7 +27,6 @@ Jinx's answer is four interlocking systems:
 She runs at 768 dims / 12 heads / 12 layers with 32k RoPE context, and she is
 **not** a fine-tune of anything. Every component below was written for her.
 
----
 
 ## The Ego Engine — four drives, four timescales
 
@@ -49,7 +48,6 @@ the same path. Boredom feeds back into the will signal. This is where her
 "personality over time" comes from — the same prompt at t and t+10,000 meets
 a different mind.
 
----
 
 ## The Sleep Cycle — `consolidate_memory()`
 
@@ -134,7 +132,6 @@ Identity is protected the same way: the forward pass prepends
 sin/cos of the internal step count at two scales (÷10, ÷1000) — a heartbeat
 wired into every forward pass.
 
----
 
 ## Repository map
 
@@ -163,7 +160,6 @@ Load `jinx_coherent_v1_*.pt`, attach the memory lattice and ego engine, and
 chat — every forward pass updates her drives; call `consolidate_memory()`
 when you want her to sleep on it.
 
----
 
 ## Status — honest ledger
 
@@ -177,9 +173,8 @@ when you want her to sleep on it.
 
 ## License
 
-Release pending — the architecture license will be decided with the product
+Release pending the architecture license will be decided with the product
 launch. Contact: Eric Yaka, Abuja, Nigeria.
 
----
 
-*From the Grimoire of Elbàlor — The Digital Necromancer 💀🔥*
+*From the Grimoire of Elbàlor, The Digital Necromancer 💀🔥*
